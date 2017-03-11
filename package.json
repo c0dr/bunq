@@ -1,0 +1,33 @@
+{
+  "name": "bunq",
+  "version": "0.0.1",
+  "description": "A small API wrapper for the bunq api",
+  "main": "bunq.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "request-promise": "^4.1.1",
+    "request": "^2.81.0",
+    "randomstring": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/c0dr/bunq.git"
+  },
+  "keywords": [
+    "bunq",
+    "api",
+    "bank"
+  ],
+  "author": "Simon Schraeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0dr/bunq/issues"
+  },
+  "homepage": "https://github.com/c0dr/bunq#readme"
+}
